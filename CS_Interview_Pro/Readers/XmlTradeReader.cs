@@ -15,6 +15,9 @@ namespace CS_Interview_Pro.Readers
 
             List<Trade> allTrades = new List<Trade>();
 
+            //TODO : Should implement the read from a single file logic to a seperate async method and can be run seperately for 
+            //reducing the time complexity by running the individual file process as a sepeate task
+
             foreach (var location in fileLocations)
             {
                 List<Trade> trades = new List<Trade>();
