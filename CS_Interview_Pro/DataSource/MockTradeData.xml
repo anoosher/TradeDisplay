@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trades>
+<TradeList>
+	<Trade>
+		<TradeId>
+			005
+		</TradeId>
+		<Type>
+			CREDIT
+		</Type>
+		<TradeDate>
+			03/02/2022
+		</TradeDate>
+		<TradeValue>
+			52000.00
+		</TradeValue>
+	</Trade>
+	<Trade >
+		<TradeId>
+			006
+		</TradeId>
+		<Type>
+			CASH
+		</Type>
+		<TradeDate>
+			03/12/2022
+		</TradeDate>
+		<TradeValue>
+			52800.00
+		</TradeValue>
+	</Trade>
+	<Trade>
+		<TradeId>
+			007
+		</TradeId>
+		<Type>
+			EQUITY
+		</Type>
+		<TradeDate>
+			03/09/2022
+		</TradeDate>
+		<TradeValue>
+			2000.00
+		</TradeValue>
+	</Trade>
+	<Trade>
+		<TradeId>
+			008
+		</TradeId>
+		<Type>
+			CASH
+		</Type>
+		<TradeDate>
+			03/08/2022
+		</TradeDate>
+		<TradeValue>
+			6000.00
+		</TradeValue>
+	</Trade>
+</TradeList>
+</Trades>
